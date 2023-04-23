@@ -27,3 +27,4 @@ I am a Junior Web Developer passionate about creating interactive and efficient 
 - :telescope: I’m working as a Web Developer-frontend developer.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mihai-lipovanu-82b545261/)
+- :mailbox:How to reach me: [![Instagram Badge](https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/mihai.lipovanu/)
