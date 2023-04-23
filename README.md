@@ -13,6 +13,9 @@ I am a Junior Web Developer passionate about creating interactive and efficient 
   <a href="https://www.linkedin.com/in/mihai-lipovanu-82b545261/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  <a href="https://www.linkedin.com/in/mihai-lipovanu-82b545261/">
+    <img src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
   </div>
 
 
