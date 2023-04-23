@@ -51,8 +51,12 @@ I am a Junior Web Developer passionate about creating interactive and efficient 
 </div>
 
            
+  ### :fire: The last projects :   
          
-            
+   <div>
+   <img src="https://brainwellness.ro/wp-content/uploads/2023/02/BW-svg-1.svg" title="Git" **alt="BW" width="40" height="40"/>
+    <img src="https://ebumbac.ro/wp-content/uploads/2023/01/cropped-Artboard-1@72x-8.png" title="ebm" **alt="BW" width="40" height="40"/>
+   </div>         s
         
           
           
