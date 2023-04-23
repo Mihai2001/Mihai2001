@@ -22,8 +22,7 @@ I am a Junior Web Developer passionate about creating interactive and efficient 
 .js {width: 65%; background-color: #f44336;}
 .php {width: 60%; background-color: #808080;}
 </style>
-</head>
-<body>
+
 
 <h1>My Skills</h1>
 
