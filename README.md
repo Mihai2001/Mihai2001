@@ -10,7 +10,7 @@ I am a Junior Web Developer passionate about creating interactive and efficient 
 
 <div id="badges" align="center">
 <h5>Social</h5>
-  <a href="your-linkedin-URL">
+  <a href="https://www.linkedin.com/in/mihai-lipovanu-82b545261/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   </div>
@@ -23,4 +23,4 @@ I am a Junior Web Developer passionate about creating interactive and efficient 
 
 - :telescope: I’m working as a Web Developer-frontend developer.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mihai-lipovanu-82b545261/)
