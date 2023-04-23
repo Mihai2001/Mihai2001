@@ -55,7 +55,7 @@ I am a Junior Web Developer passionate about creating interactive and efficient 
          
    <div>
    <img src="https://brainwellness.ro/wp-content/uploads/2023/02/BW-svg-1.svg" title="Git" **alt="BW" width="40" height="40"/>
-    <img src="https://i.ibb.co/tPKSjF1/logo-ebumbac.png" title="ebm" **alt="emb" width="100" height="50"/>
+    <img src="https://i.ibb.co/tPKSjF1/logo-ebumbac.png" title="ebm" **alt="emb" width="110" height="50"/>
    </div>     
           
           
