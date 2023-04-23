@@ -16,6 +16,10 @@ I am a Junior Web Developer passionate about creating interactive and efficient 
   <a href="https://www.instagram.com/mihai.lipovanu/">
     <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
+  <a href="https://www.google.com/intl/ro/gmail/about/#">
+  <h6>my email: lipovanumihai09@gmail.com</h6>
+    <img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=Instagram&logoColor=white" alt="Gmail Badge"/>
+  </a>
   </div>
 
 
