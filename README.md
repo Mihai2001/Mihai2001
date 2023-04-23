@@ -7,8 +7,9 @@ I am a Junior Web Developer passionate about creating interactive and efficient 
 </div>
 
 
-<h3>Social</h3>
+
 <div id="badges" align="center">
+<h5>Social</h5>
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
