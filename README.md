@@ -18,7 +18,7 @@ I am a Junior Web Developer passionate about creating interactive and efficient 
   </a>
   <a href="https://www.google.com/intl/ro/gmail/about/#">
   <h6>my email: lipovanumihai09@gmail.com</h6>
-    <img src="https://img.shields.io/badge/mail-red?style=for-the-badge&logo=Instagram&logoColor=white" alt="mail Badge"/>
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
   </div>
 
