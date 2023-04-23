@@ -54,7 +54,7 @@ I am a Junior Web Developer passionate about creating interactive and efficient 
   ### :fire: The last projects :   
          
    <div>
-   <h5 href="https://brainwellness.ro/">Brainwellness</h5>
+   <p href="https://brainwellness.ro/">Brainwellness</p>
    <img src="https://brainwellness.ro/wp-content/uploads/2023/02/BW-svg-1.svg" width="60" height="60"/>
     <h5 href="https://ebumbac.ro/">eBumbac</h5>
     <img  src="https://i.ibb.co/tPKSjF1/logo-ebumbac.png"  width="110" height="50"/>
